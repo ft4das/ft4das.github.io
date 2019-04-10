@@ -1,0 +1,75 @@
+==========================================================================
+
+Alessandro Abate, University of Oxford, UK
+alessandro.abate@cs.ox.ac.uk
+==========================================================================
+
+Vincent Aravantinos, Autonomous Intelligent Driving (AID) GmbH, Germnay
+vincent.aravantinos@aid-driving.eu
+
+==========================================================================
+
+Rohit Chadha, University of Missouri, USA
+chadhar@missouri.edu
+
+==========================================================================
+
+Jelena Frtunikj, BMW, Germany
+Jelena.Frtunikj@bmw.de
+
+==========================================================================
+
+Alwyn E. Goodloe, NASA Langley Research Center, USA
+a.goodloe@nasa.gov
+
+==========================================================================
+
+Christopher Hobbs, Blackberry QNX Software Systems, Canada
+chrhobbs@blackberry.com
+
+==========================================================================
+
+Taylor T. Johnson, Vanderbilt University, USA
+taylor.johnson@vanderbilt.edu
+
+==========================================================================
+
+Joost-Pieter Katoen, RWTH Aachen University, Germany
+katoen@cs.rwth-aachen.de
+
+==========================================================================
+
+Wenchao Li, Boston University, USA
+wenchao@bu.edu
+
+==========================================================================
+
+Magnus Myreen, Chalmers University of Technology, Sweden
+myreen@chalmers.se
+
+==========================================================================
+
+Gethin Norman, University of Glasgow, UK
+Gethin.Norman@glasgow.ac.uk
+
+==========================================================================
+
+Luan V. Nguyen, University of Pennsylvania, USA
+luanvn@seas.upenn.edu 
+
+==========================================================================
+
+Peter Csaba Ölveczky, University of Oslo, Norway
+peterol@ifi.uio.no
+
+==========================================================================
+
+David Parker, University of Birmingham, UK
+d.a.parker@cs.bham.ac.uk
+
+==========================================================================
+
+Guo Zhou, Prover Technology AB, Sweden
+guo.zhou@prover.com
+
+==========================================================================
