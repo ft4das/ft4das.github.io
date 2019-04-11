@@ -1,6 +1,7 @@
 Alessandro Abate <alessandro.abate@cs.ox.ac.uk>
 Vincent Aravantinos <vincent.aravantinos@aid-driving.eu>
 Rohit Chadha <chadhar@missouri.edu>
+Fabian Immler <fimmler@andrew.cmu.edu>
 Jelena Frtunikj <Jelena.Frtunikj@bmw.de>
 Alwyn E. Goodloe <a.goodloe@nasa.gov>
 Christopher Hobbs <chrhobbs@blackberry.com>
