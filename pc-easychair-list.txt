@@ -1,4 +1,5 @@
 Alessandro Abate <alessandro.abate@cs.ox.ac.uk>
+Asim Abdulkhaleq <Asim.Abdulkhaleq@de.bosch.com>
 Vincent Aravantinos <vincent.aravantinos@aid-driving.eu>
 Rohit Chadha <chadhar@missouri.edu>
 Fabian Immler <fimmler@andrew.cmu.edu>
